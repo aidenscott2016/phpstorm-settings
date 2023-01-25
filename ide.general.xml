@@ -1,0 +1,13 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
+    <option name="useDefaultBrowser" value="false" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
